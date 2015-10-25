@@ -1,0 +1,9 @@
+{
+  "name": "node-trello-backup",
+  "version": "1.0.0",
+  "description": "node-trello-backup: Automatic trello board exporter",
+  "dependencies": {
+    "node-trello": "^1.1.2",
+    "underscore": "^1.8.3"
+  }
+}
